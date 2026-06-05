@@ -84,6 +84,8 @@ export default {
         }
       }
     }
+    // to make app.$state accessable inside the methods from settings
+    api.app = app;
     app._APIState = false;
     app.config.globalProperties["$api"] = reactive(api);
     app.mixin({

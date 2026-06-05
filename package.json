@@ -1,5 +1,5 @@
 {
-  "name": "@microservice-framework/vue-api-client",
+  "name": "@incomnetworking/vue-api-client",
   "version": "3.0.0",
   "description": "vue3 $api responsive mfw client",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microservice-framework/vue-api-client.git"
+    "url": "git+https://github.com/incomnetworking/vue-api-client.git"
   },
   "keywords": [
     "vue3",
@@ -18,9 +18,9 @@
   "author": "Gormartsen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/microservice-framework/vue-api-client/issues"
+    "url": "https://github.com/incomnetworking/vue-api-client/issues"
   },
-  "homepage": "https://github.com/microservice-framework/vue-api-client#readme",
+  "homepage": "https://github.com/incomnetworking/vue-api-client#readme",
   "dependencies": {
     "@microservice-framework/microservice-client": "^3.0.0"
   }
